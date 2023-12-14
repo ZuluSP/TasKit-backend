@@ -1,2 +1,2 @@
 # TasKit
-Task manager program
+Task manager program backend
